@@ -17,7 +17,7 @@ function widget:GetInfo()
 	return {
 		name      = "Resource Monitor",
 		desc      = "Tracks metal and energy production, storage and usage",
-		author    = "C",
+		author    = "alzroa",
 		date      = "2026-03-18",
 		license   = "GNU GPL, v2 or later",
 		layer     = 0,

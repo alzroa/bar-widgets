@@ -16,7 +16,7 @@ function widget:GetInfo()
 	return {
 		name      = "Wind Metal Converter Calculator",
 		desc      = "Shows optimal wind binds per metal converter based on wind",
-		author    = "C",
+		author    = "alzroa",
 		date      = "2026-03-18",
 		license   = "GNU GPL, v2 or later",
 		layer     = 0,

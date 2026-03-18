@@ -16,7 +16,7 @@ function widget:GetInfo()
 	return {
 		name      = "Geo Counter",
 		desc      = "Displays number of geos used, seen and total on map",
-		author    = "C",
+		author    = "alzroa",
 		date      = "2026-03-18",
 		license   = "GNU GPL, v2 or later",
 		layer     = 0,
