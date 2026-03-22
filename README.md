@@ -10,7 +10,7 @@ A collection of custom LuaUI widgets for Beyond All Reason (BAR), an open-source
 - [x] **Resource Monitor** - Tracks metal/energy production, storage, and usage in real-time (gui_resource_monitor.lua)
 - [x] **Mex Counter** - Displays number of meces used, seen, and total on the map (gui_mex_counter.lua)
 - [x] **Geo Counter** - Displays number of geos used, seen, and total on the map (gui_geo_counter.lua)
-- [ ] **Build Sequence Optimizer** - Helps optimize and visualize build order sequences
+- [x] **Build Sequence Optimizer** - Helps optimize and visualize build order sequences (gui_build_sequence_optimizer.lua)
 - [ ] (Add new projects here)
 
 ---
