@@ -11,6 +11,7 @@ A collection of custom LuaUI widgets for Beyond All Reason (BAR), an open-source
 - [x] **Mex Counter** - Displays number of meces used, seen, and total on the map (gui_mex_counter.lua)
 - [x] **Geo Counter** - Displays number of geos used, seen, and total on the map (gui_geo_counter.lua)
 - [x] **Build Sequence Optimizer** - Helps optimize and visualize build order sequences (gui_build_sequence_optimizer.lua)
+- [x] **Commander Range Indicator** - Displays the attack range of the commander to help with micro-management (gui_commander_range_indicator.lua)
 - [ ] (Add new projects here)
 
 ---
