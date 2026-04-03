@@ -13,6 +13,7 @@ A collection of custom LuaUI widgets for Beyond All Reason (BAR), an open-source
 - [x] **Build Sequence Optimizer** - Helps optimize and visualize build order sequences (gui_build_sequence_optimizer.lua)
 - [x] **Commander Range Indicator** - Displays the attack range of the commander to help with micro-management (gui_commander_range_indicator.lua)
 - [x] **Economy Graph** - Visualizes resource trends over time (gui_economy_graph.lua)
+- [x] **Unit Counter** - Tracks the total number of active units in the player's army (gui_unit_counter.lua)
 - [ ] (Add new projects here)
 
 ---
