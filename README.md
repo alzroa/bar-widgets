@@ -16,6 +16,7 @@ A collection of custom LuaUI widgets for Beyond All Reason (BAR), an open-source
 - [x] **Unit Counter** - Tracks the total number of active units in the player's army (gui_unit_counter.lua)
 - [x] **Unit Composition** - Displays army distribution by tier (T1, T2, T3) (gui_unit_composition.lua)
 - [x] **Unit Health Monitor** - Displays average health and critical warnings for selected units (gui_unit_health_monitor.lua)
+- [x] **Global Unit Census** - Displays total unit counts for all players on the map (gui_unit_census.lua)
 - [ ] (Add new projects here)
 
 ---
